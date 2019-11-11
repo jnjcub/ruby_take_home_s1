@@ -3,3 +3,4 @@ Gem*
 src/*
 .ruby*
 .irb*
+out_*
