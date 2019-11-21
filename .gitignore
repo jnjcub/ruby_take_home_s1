@@ -1,5 +1,6 @@
 Gem*
 *_generator*
+*_merger*
 src/*
 .ruby*
 .irb*
